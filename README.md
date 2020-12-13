@@ -20,6 +20,10 @@ The icon image is extracted from the Little Bridges banner by Chris AKA Bus.Stop
 
 ## Version History
 
+### Version 0.0.2
+
+* Bumped GCStatsBannerLib version.
+
 ### Version 0.0.1
 
 * Initial release.
